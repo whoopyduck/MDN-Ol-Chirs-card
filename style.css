@@ -1,0 +1,37 @@
+.container{
+    border: 3px solid black;
+    box-sizing: border-box;
+    width: 800px;
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+     */
+     margin-top: 10%;
+     margin-bottom:10%;
+     /* border-radius: 2%; */
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: auto;
+    height:auto; */
+}
+h1{
+    background-color: red;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px;
+}
+h2{
+    margin-bottom: 0;
+    background-color: red;
+    padding: 20px;
+}
+article{
+    background-color: #b70000;
+    color: white;
+}
+#id1{
+    /* margin-top: 0px; */
+}
